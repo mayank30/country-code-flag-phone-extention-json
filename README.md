@@ -5,7 +5,7 @@ Purpose to provide SVG Flags, Unicode flag (emojis), Country code, Phone extensi
 ## Install using npm
 
 ```bash
-npm install country-code-flag-phone-extension-json
+npm i country-code-flag-phone-extension-json
 ```
 
 ## Methods & Options
@@ -20,8 +20,8 @@ country.all();
 const options  = {
     filter: "", // If pass as string then full text search on db (name, subregion, region, currency)
     filter: [], // if pass as array filter by ISO2 codes 
-    keys: [] // define object keys to minify records,
-    sortBy: [] // sort by priortiy of mentioned ISO2 code.
+    keys: [], // define object keys to minify records,
+    sortBy: [], // sort by priortiy of mentioned ISO2 code.
     limit: 5 // limit the returned object
 }
 ```
@@ -199,6 +199,14 @@ country.all({
 // and reminaing 3 filtered (AD, YE, ZW) countries from DB
 
 ```
+
+## If you like it
+
+You can buy me coffee 
+https://www.buymeacoffee.com/mayankjhawar
+
+Support me at Patreon
+https://patreon.com/mayank120
 
 ## License
 
