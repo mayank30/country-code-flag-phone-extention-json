@@ -3,15 +3,18 @@
   "version": "1.0.0",
   "description": "Javascript and JSON for Country code flag phone extension",
   "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mayank30/country-code-flag-phone-extention-json.git"
   },
   "keywords": [
-
+    "phone extension",
+    "phone",
+    "mask phone",
+    "country code flag",
+    "translations",
+    "timezone",
+    "search country",
     "country",
     "country-code",
     "emoji",
