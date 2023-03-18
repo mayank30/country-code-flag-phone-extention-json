@@ -1,6 +1,6 @@
 {
   "name": "country-code-flag-phone-extension-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript and JSON for Country code flag phone extension",
   "main": "index.js",
   "repository": {
