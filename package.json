@@ -1,0 +1,31 @@
+{
+  "name": "country-code-flag-phone-extension-json",
+  "version": "1.0.0",
+  "description": "Javascript and JSON for Country code flag phone extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank30/country-code-flag-phone-extention-json.git"
+  },
+  "keywords": [
+
+    "country",
+    "country-code",
+    "emoji",
+    "flag",
+    "iso-3166"
+  ],
+  "author": {
+    "name": "RMayank Jhawar",
+    "email": "mayankjhawar18@gmail.com",
+    "url": "https://github.com/mayank30"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayank30/country-code-flag-phone-extention-json/issues"
+  },
+  "homepage": "https://github.com/mayank30/country-code-flag-phone-extention-json#readme"
+}
